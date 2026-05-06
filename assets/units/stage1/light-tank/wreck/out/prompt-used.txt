@@ -1,0 +1,7 @@
+Use the light tank image just shown as the visual reference.
+Create a destroyed wreck version of the same enemy light tank for a clean HD 2D arcade wasteland tank shooter.
+Preserve the same vehicle identity, silhouette family, armor language, and scale, but show it as a knocked-out battlefield wreck: broken tracks, bent armor, dark soot, exposed internals, damaged barrel, and dead hostile vehicle energy.
+Style: clean hand-painted HD 2D game asset style, crisp silhouette, smooth painted surfaces, low texture noise, strong arcade readability, no pixel art.
+View: light 3/4 top-down vehicle wreck view for a portrait mobile game.
+Background must be 100% solid flat #FF00FF magenta, no gradients, no text, no labels, no watermark.
+Entire wreck must fit fully inside the image with generous magenta margin on all four sides. No broken part may touch or cross the image edge.

@@ -1,0 +1,97 @@
+{
+  "base": "assets/map/stage1/segment-02-base.png",
+  "placements": "data/stage1-segment-02-props.json",
+  "output": "assets/map/stage1/segment-02-layered-preview.png",
+  "pasted": [
+    {
+      "id": "barrel-cluster-top-left",
+      "image": "/Users/javababy/Downloads/AI demo/tankwar/assets/props/stage1/roadside-pack/barrel-cluster/prop.png",
+      "left": 52,
+      "top": 108,
+      "w": 112,
+      "h": 98,
+      "sortY": 206,
+      "layer": "props"
+    },
+    {
+      "id": "truck-top-right",
+      "image": "/Users/javababy/Downloads/AI demo/tankwar/assets/props/stage1/utility-truck/prop.png",
+      "left": 488,
+      "top": 112,
+      "w": 204,
+      "h": 148,
+      "sortY": 260,
+      "layer": "props"
+    },
+    {
+      "id": "concrete-left-mid",
+      "image": "/Users/javababy/Downloads/AI demo/tankwar/assets/props/stage1/roadside-pack/concrete-roadblock/prop.png",
+      "left": 36,
+      "top": 196,
+      "w": 176,
+      "h": 112,
+      "sortY": 308,
+      "layer": "props"
+    },
+    {
+      "id": "barrel-cluster-right-mid",
+      "image": "/Users/javababy/Downloads/AI demo/tankwar/assets/props/stage1/roadside-pack/barrel-cluster/prop.png",
+      "left": 544,
+      "top": 315,
+      "w": 104,
+      "h": 91,
+      "sortY": 406,
+      "layer": "props"
+    },
+    {
+      "id": "sandbag-right-mid",
+      "image": "/Users/javababy/Downloads/AI demo/tankwar/assets/props/stage1/roadside-pack/sandbag-barricade/prop.png",
+      "left": 522,
+      "top": 367,
+      "w": 148,
+      "h": 73,
+      "sortY": 440,
+      "layer": "props"
+    },
+    {
+      "id": "steel-bottom-left",
+      "image": "/Users/javababy/Downloads/AI demo/tankwar/assets/props/stage1/roadside-pack/steel-hedgehog/prop.png",
+      "left": 49,
+      "top": 624,
+      "w": 118,
+      "h": 112,
+      "sortY": 736,
+      "layer": "props"
+    },
+    {
+      "id": "stacked-tires-bottom-right",
+      "image": "/Users/javababy/Downloads/AI demo/tankwar/assets/props/stage1/roadside-pack/stacked-tires/prop.png",
+      "left": 543,
+      "top": 750,
+      "w": 126,
+      "h": 100,
+      "sortY": 850,
+      "layer": "props"
+    },
+    {
+      "id": "barrel-cluster-bottom-left",
+      "image": "/Users/javababy/Downloads/AI demo/tankwar/assets/props/stage1/roadside-pack/barrel-cluster/prop.png",
+      "left": 38,
+      "top": 943,
+      "w": 116,
+      "h": 101,
+      "sortY": 1044,
+      "layer": "props"
+    },
+    {
+      "id": "concrete-bottom-right",
+      "image": "/Users/javababy/Downloads/AI demo/tankwar/assets/props/stage1/roadside-pack/concrete-roadblock/prop.png",
+      "left": 506,
+      "top": 1100,
+      "w": 176,
+      "h": 112,
+      "sortY": 1212,
+      "layer": "props"
+    }
+  ]
+}

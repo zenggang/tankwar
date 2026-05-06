@@ -1,0 +1,6 @@
+Create exactly 4 equal cells in a 2x2 sprite sheet for a clean HD 2D arcade wasteland tank shooter hit spark effect.
+Background must be 100% solid flat #FF00FF magenta.
+This is a compact armor-impact spark effect, not a full explosion.
+Read the frames left to right, top to bottom: initial contact spark, wider metal spark burst, peak flash, short fading ember burst.
+Use bright orange-yellow sparks with a little white-hot center and tiny metallic debris, but keep the effect compact and readable.
+No text, no labels, no UI, no watermark. Entire effect must stay well inside each cell with generous magenta margin on all sides.

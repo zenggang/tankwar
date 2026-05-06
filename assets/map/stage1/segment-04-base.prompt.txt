@@ -1,0 +1,9 @@
+Create a clean hand-painted HD 2D arcade shooter stage base map for a portrait mobile game.
+This is a GROUND-ONLY BASE MAP for a layered raster vertical tank battle stage.
+Theme: wasteland boss arena at the end of a highway assault, strong arcade readability, light 3/4 top-down road perspective.
+Composition: a wider terminal battle yard at the top of the stage, central combat lane with enough open maneuver space for a large mobile fortress boss, broad dusty shoulders, heavy skid circles, impact scars, reinforced ground markings, and explicit side anchor pads reserved for later large wrecks, bunker cover, ruined artillery props, and arena boundary dressing.
+Mood: final confrontation, dramatic but still clean and readable; feels larger and heavier than previous segments without becoming cluttered.
+Very important: keep the center combat space open and readable; reserve the big environmental drama for later transparent props.
+Do not include tall collidable objects and do not bake props into the base: no boss, no tanks, no bunkers, no wrecked trucks, no artillery, no fences, no characters, no UI, no text.
+Do not make pixel art. Avoid noisy microtexture, tiny clutter, blurry painterly grime, and over-detailed rubble.
+Portrait composition for a mobile shooter stage, target framing equivalent to 720x1200.

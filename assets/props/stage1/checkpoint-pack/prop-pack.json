@@ -1,0 +1,183 @@
+{
+  "input": "assets/props/stage1/checkpoint-pack/raw-sheet.png",
+  "rows": 2,
+  "cols": 2,
+  "threshold": 125,
+  "edge_threshold": 190,
+  "component_mode": "largest",
+  "component_padding": 6,
+  "min_component_area": 180,
+  "edge_touch_margin": 4,
+  "accepted": [
+    {
+      "index": 0,
+      "label": "warning-sign",
+      "grid": [
+        0,
+        0
+      ],
+      "source_box": [
+        0,
+        0,
+        627,
+        627
+      ],
+      "component_mode": "largest",
+      "component_count": 1,
+      "selected_component_area": 32001,
+      "selected_component_bbox": [
+        233,
+        90,
+        435,
+        495
+      ],
+      "crop_bbox": [
+        233,
+        90,
+        435,
+        495
+      ],
+      "padded_crop_bbox": [
+        227,
+        84,
+        441,
+        501
+      ],
+      "edge_touch": false,
+      "output_size": [
+        214,
+        417
+      ],
+      "status": "accepted",
+      "image": "assets/props/stage1/checkpoint-pack/warning-sign/prop.png"
+    },
+    {
+      "index": 1,
+      "label": "scrap-pile",
+      "grid": [
+        0,
+        1
+      ],
+      "source_box": [
+        627,
+        0,
+        1254,
+        627
+      ],
+      "component_mode": "largest",
+      "component_count": 4,
+      "selected_component_area": 71508,
+      "selected_component_bbox": [
+        87,
+        194,
+        469,
+        486
+      ],
+      "crop_bbox": [
+        87,
+        194,
+        469,
+        486
+      ],
+      "padded_crop_bbox": [
+        81,
+        188,
+        475,
+        492
+      ],
+      "edge_touch": false,
+      "output_size": [
+        394,
+        304
+      ],
+      "status": "accepted",
+      "image": "assets/props/stage1/checkpoint-pack/scrap-pile/prop.png"
+    },
+    {
+      "index": 2,
+      "label": "turret-foundation-pad",
+      "grid": [
+        1,
+        0
+      ],
+      "source_box": [
+        0,
+        627,
+        627,
+        1254
+      ],
+      "component_mode": "largest",
+      "component_count": 1,
+      "selected_component_area": 103636,
+      "selected_component_bbox": [
+        99,
+        140,
+        520,
+        451
+      ],
+      "crop_bbox": [
+        99,
+        140,
+        520,
+        451
+      ],
+      "padded_crop_bbox": [
+        93,
+        134,
+        526,
+        457
+      ],
+      "edge_touch": false,
+      "output_size": [
+        433,
+        323
+      ],
+      "status": "accepted",
+      "image": "assets/props/stage1/checkpoint-pack/turret-foundation-pad/prop.png"
+    },
+    {
+      "index": 3,
+      "label": "wire-fence-segment",
+      "grid": [
+        1,
+        1
+      ],
+      "source_box": [
+        627,
+        627,
+        1254,
+        1254
+      ],
+      "component_mode": "largest",
+      "component_count": 1,
+      "selected_component_area": 40147,
+      "selected_component_bbox": [
+        62,
+        158,
+        527,
+        467
+      ],
+      "crop_bbox": [
+        62,
+        158,
+        527,
+        467
+      ],
+      "padded_crop_bbox": [
+        56,
+        152,
+        533,
+        473
+      ],
+      "edge_touch": false,
+      "output_size": [
+        477,
+        321
+      ],
+      "status": "accepted",
+      "image": "assets/props/stage1/checkpoint-pack/wire-fence-segment/prop.png"
+    }
+  ],
+  "rejected": [],
+  "edge_touch_props": []
+}

@@ -1,0 +1,7 @@
+Create a single player medium tank hull sprite for a clean HD 2D arcade wasteland tank shooter.
+Style: clean hand-painted HD 2D game asset style, crisp silhouette, smooth painted surfaces, low texture noise, strong arcade readability, no pixel art.
+View: light 3/4 top-down vehicle view for a portrait mobile game.
+This asset is the hull only, without the turret. The body should feel reliable, balanced, mid-weight, and hero-readable on a phone screen.
+Color language: muted military green main armor with warm dusty wear, restrained rust accents, slightly brighter and more readable than enemy tanks.
+Background must be 100% solid flat #FF00FF magenta, no gradients, no text, no labels, no watermark.
+Entire hull must fit fully inside the image with generous magenta margin on all four sides. No track, bumper, or armor edge may touch or cross the image edge.

@@ -1,0 +1,8 @@
+Use the fortress boss body image just shown as the visual reference.
+Create a single exposed weakpoint core module for the same moving fortress boss in a clean HD 2D arcade wasteland tank shooter.
+This is a detachable vulnerable core piece, not the whole boss. It should feel like an internal energy chamber or armored reactor node revealed in phase two, matching the same industrial wasteland engineering language as the boss body.
+Style: clean hand-painted HD 2D game asset style, crisp silhouette, smooth painted surfaces, low texture noise, strong arcade readability, no pixel art.
+View: light 3/4 top-down boss module view for a portrait mobile game.
+Add controlled danger accents such as heated metal seams, internal glow slits, or exposed powered machinery, but keep the asset readable and not over-busy.
+Background must be 100% solid flat #FF00FF magenta, no gradients, no text, no labels, no watermark.
+Entire core module must fit fully inside the image with generous magenta margin on all four sides. No edge may touch or cross the image border.

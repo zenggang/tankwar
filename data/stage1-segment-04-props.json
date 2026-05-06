@@ -1,0 +1,68 @@
+{
+  "props": [
+    {
+      "id": "boss-bunker-left-top",
+      "image": "assets/props/stage1/bunker-cover/prop.png",
+      "x": 122,
+      "y": 206,
+      "w": 170,
+      "h": 132
+    },
+    {
+      "id": "boss-bunker-right-top",
+      "image": "assets/props/stage1/bunker-cover/prop.png",
+      "x": 598,
+      "y": 206,
+      "w": 170,
+      "h": 132
+    },
+    {
+      "id": "boss-heavy-truck-left",
+      "image": "assets/props/stage1/heavy-truck-wreck/prop.png",
+      "x": 126,
+      "y": 488,
+      "w": 184,
+      "h": 224
+    },
+    {
+      "id": "boss-heavy-truck-right",
+      "image": "assets/props/stage1/heavy-truck-wreck/prop.png",
+      "x": 594,
+      "y": 488,
+      "w": 184,
+      "h": 224
+    },
+    {
+      "id": "boss-pad-left",
+      "image": "assets/props/stage1/checkpoint-pack/turret-foundation-pad/prop.png",
+      "x": 120,
+      "y": 834,
+      "w": 170,
+      "h": 126
+    },
+    {
+      "id": "boss-pad-right",
+      "image": "assets/props/stage1/checkpoint-pack/turret-foundation-pad/prop.png",
+      "x": 600,
+      "y": 834,
+      "w": 170,
+      "h": 126
+    },
+    {
+      "id": "boss-roadblock-left",
+      "image": "assets/props/stage1/roadside-pack/concrete-roadblock/prop.png",
+      "x": 158,
+      "y": 1084,
+      "w": 176,
+      "h": 112
+    },
+    {
+      "id": "boss-roadblock-right",
+      "image": "assets/props/stage1/roadside-pack/concrete-roadblock/prop.png",
+      "x": 562,
+      "y": 1084,
+      "w": 176,
+      "h": 112
+    }
+  ]
+}

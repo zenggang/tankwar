@@ -1,0 +1,65 @@
+<h2>镜头视角</h2>
+<p class="subtitle">首关已经确定为中轴公路突进。现在只定战场视角，这会直接影响坦克、炮台、路障、直升机和地表底图的绘制方式。</p>
+
+<div class="cards">
+  <div class="card" data-choice="topdown-90" onclick="toggleSelect(this)">
+    <div class="card-image" style="padding:18px;min-height:320px;background:linear-gradient(180deg,#d6b083 0%,#9f6f46 42%,#4a372b 100%);display:flex;justify-content:center;align-items:center;">
+      <div style="width:156px;height:270px;border-radius:28px;background:rgba(20,18,16,.24);padding:10px;">
+        <div style="height:100%;border-radius:20px;background:#5a473a;position:relative;overflow:hidden;">
+          <div style="position:absolute;left:50%;top:18px;transform:translateX(-50%);width:60px;height:198px;background:#2e2b29;border-radius:28px;"></div>
+          <div style="position:absolute;left:50%;top:52px;transform:translateX(-50%);width:28px;height:50px;background:#5f7167;border-radius:10px;"></div>
+          <div style="position:absolute;left:50%;top:98px;transform:translateX(-50%);width:8px;height:44px;background:#5f7167;border-radius:999px;"></div>
+          <div style="position:absolute;left:38px;top:70px;width:14px;height:54px;background:#494544;border-radius:8px;"></div>
+          <div style="position:absolute;right:38px;top:70px;width:14px;height:54px;background:#494544;border-radius:8px;"></div>
+          <div style="position:absolute;left:50%;bottom:22px;transform:translateX(-50%);width:38px;height:30px;background:#65766b;border-radius:10px;"></div>
+        </div>
+      </div>
+    </div>
+    <div class="card-body">
+      <h3>A：严格俯视</h3>
+      <p>最清楚，碰撞和子弹轨迹最好读，资源也最稳定；缺点是坦克和场景体积感会弱一些，废土压迫感偏平。</p>
+    </div>
+  </div>
+
+  <div class="card" data-choice="topdown-34" onclick="toggleSelect(this)">
+    <div class="card-image" style="padding:18px;min-height:320px;background:linear-gradient(180deg,#d6b083 0%,#9f6f46 42%,#4a372b 100%);display:flex;justify-content:center;align-items:center;">
+      <div style="width:156px;height:270px;border-radius:28px;background:rgba(20,18,16,.24);padding:10px;">
+        <div style="height:100%;border-radius:20px;background:#5a473a;position:relative;overflow:hidden;">
+          <div style="position:absolute;left:50%;top:18px;transform:translateX(-50%);width:68px;height:194px;background:#2e2b29;border-radius:28px / 22px;"></div>
+          <div style="position:absolute;left:50%;top:56px;transform:translateX(-50%);width:34px;height:54px;background:#5f7167;border-radius:12px 12px 8px 8px;"></div>
+          <div style="position:absolute;left:50%;top:96px;transform:translateX(-50%) skewX(-10deg);width:12px;height:56px;background:#5f7167;border-radius:999px;"></div>
+          <div style="position:absolute;left:34px;top:72px;width:16px;height:60px;background:#494544;border-radius:10px;transform:skewY(-8deg);"></div>
+          <div style="position:absolute;right:34px;top:72px;width:16px;height:60px;background:#494544;border-radius:10px;transform:skewY(8deg);"></div>
+          <div style="position:absolute;left:50%;bottom:22px;transform:translateX(-50%);width:40px;height:32px;background:#65766b;border-radius:10px;"></div>
+        </div>
+      </div>
+    </div>
+    <div class="card-body">
+      <h3>B 推荐：轻 3/4 俯视</h3>
+      <p>仍然是 2D 竖版，但坦克会更有“车体朝前推进”的厚度感。兼顾读图和废土质感，最适合你这个题材。</p>
+    </div>
+  </div>
+
+  <div class="card" data-choice="topdown-angled" onclick="toggleSelect(this)">
+    <div class="card-image" style="padding:18px;min-height:320px;background:linear-gradient(180deg,#d6b083 0%,#9f6f46 42%,#4a372b 100%);display:flex;justify-content:center;align-items:center;">
+      <div style="width:156px;height:270px;border-radius:28px;background:rgba(20,18,16,.24);padding:10px;">
+        <div style="height:100%;border-radius:20px;background:#5a473a;position:relative;overflow:hidden;">
+          <div style="position:absolute;left:50%;top:18px;transform:translateX(-50%) perspective(140px) rotateX(24deg);width:74px;height:188px;background:#2e2b29;border-radius:24px;"></div>
+          <div style="position:absolute;left:50%;top:68px;transform:translateX(-50%);width:38px;height:58px;background:#5f7167;border-radius:14px 14px 8px 8px;"></div>
+          <div style="position:absolute;left:50%;top:108px;transform:translateX(-50%) skewX(-16deg);width:16px;height:62px;background:#5f7167;border-radius:999px;"></div>
+          <div style="position:absolute;left:32px;top:76px;width:18px;height:64px;background:#494544;border-radius:10px;"></div>
+          <div style="position:absolute;right:32px;top:76px;width:18px;height:64px;background:#494544;border-radius:10px;"></div>
+          <div style="position:absolute;left:50%;bottom:22px;transform:translateX(-50%);width:42px;height:34px;background:#65766b;border-radius:10px;"></div>
+        </div>
+      </div>
+    </div>
+    <div class="card-body">
+      <h3>C：更斜的电影感视角</h3>
+      <p>废土味最浓，Boss 和大型单位会很有压迫感，但地图障碍、子弹落点和碰撞可读性会更难控制。</p>
+    </div>
+  </div>
+</div>
+
+<div class="section">
+  <p class="subtitle">这一轮只定视角。你回复 `A / B / C` 即可；如果想混一点，也可以说“以 B 为主，但别太斜”。</p>
+</div>

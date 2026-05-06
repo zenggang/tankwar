@@ -1,0 +1,6 @@
+Create a single player tank hit flash overlay sprite for a clean HD 2D arcade wasteland tank shooter.
+This is a brief damage feedback overlay for the player medium tank, not a full explosion.
+Style: clean HD game effect asset, readable, restrained, arcade combat clarity, no pixel art.
+The shape should broadly match a medium tank top-down 3/4 footprint, with bright white-yellow impact glow, small sparks, and a thin hostile hit outline feel, designed to be composited quickly over the player tank.
+Background must be 100% solid flat #FF00FF magenta, no gradients, no text, no labels, no watermark.
+Keep the overlay compact and centered with generous magenta margin.

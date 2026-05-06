@@ -1,0 +1,6 @@
+Create a single helicopter rotor overlay sprite for a clean HD 2D arcade wasteland tank shooter.
+This is a separate rotor asset for the existing scout helicopter body, not a full aircraft.
+Style: clean HD game effect/part asset, readable, restrained, military-arcade.
+View: top-down to light 3/4 rotor disc matching a compact scout helicopter. Show blurred spinning blades or a readable rotor star that can be composited above the helicopter body.
+Background must be 100% solid flat #FF00FF magenta, no gradients in the background, no text, no labels, no watermark.
+Keep the rotor centered with generous magenta margin.

@@ -1,0 +1,17 @@
+Use the dressed wasteland highway image just shown as the visual style reference.
+Use the layout guide image just shown as a layout-only reference. Use it only to understand the rows, columns, equal invisible frame slots, centering, spacing, and safe padding. Do not reproduce the guide: no visible boxes, no safe-area rectangles, no center marks, no labels, no borders, no guide background.
+Create exactly 9 equal cells in a 3x3 prop pack sheet for a clean HD 2D arcade wasteland tank shooter.
+Art style: clean hand-painted HD 2D game asset style, crisp silhouettes, smooth painted surfaces, low texture noise, strong arcade readability, no pixel art.
+Background must be 100% solid flat #FF00FF magenta.
+Each cell contains one separate top-down 3/4 roadside combat prop with generous magenta margin on all sides. No prop may touch or cross a cell edge.
+The 9 props should be:
+1. rusty oil barrel cluster
+2. low sandbag barricade
+3. broken concrete roadblock
+4. steel hedgehog anti-vehicle obstacle
+5. wrecked roadside utility truck
+6. stacked worn tires
+7. bent military warning sign
+8. scrap metal pile
+9. round turret foundation pad
+No characters, no tanks, no UI, no text, no labels, no watermark.

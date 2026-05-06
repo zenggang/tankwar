@@ -1,0 +1,11 @@
+{
+  "target": "asset",
+  "mode": "single",
+  "prompt": "",
+  "role": "",
+  "input": "assets/ui/stage1/joystick-base/raw.png",
+  "threshold": 125,
+  "edge_threshold": 190,
+  "duration": 200,
+  "single_size": 512
+}

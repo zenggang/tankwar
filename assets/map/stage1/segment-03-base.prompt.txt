@@ -1,0 +1,9 @@
+Create a clean hand-painted HD 2D arcade shooter stage base map for a portrait mobile game.
+This is a GROUND-ONLY BASE MAP for a layered raster vertical tank battle stage.
+Theme: wasteland checkpoint lockdown approach, strong arcade readability, light 3/4 top-down road perspective.
+Composition: central highway advancing upward into a former checkpoint zone, lane paint fragments, flattened concrete strips, dusty shoulders, scorched turning marks, explicit empty staging pads for a future checkpoint gantry, fence line props, defensive emplacements, and cover props.
+Mood: tense pre-boss buildup, more militarized than prior segments, but still bright enough to read instantly on a small screen.
+Very important: the center lane must remain clearly traversable and the reserved prop spaces must feel intentional, not random blank holes.
+Do not include tall collidable objects and do not bake props into the base: no gantries, no wire fences, no barricades, no tanks, no turrets, no helicopters, no characters, no UI, no text.
+Do not make pixel art. Avoid noisy microtexture, tiny clutter, blurry painterly grime, and over-detailed rubble.
+Portrait composition for a mobile shooter stage, target framing equivalent to 720x1400.

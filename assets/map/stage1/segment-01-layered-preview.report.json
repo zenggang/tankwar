@@ -1,0 +1,77 @@
+{
+  "base": "assets/map/stage1/segment-01-base.png",
+  "placements": "data/stage1-segment-01-props.json",
+  "output": "assets/map/stage1/segment-01-layered-preview.png",
+  "pasted": [
+    {
+      "id": "opening-barrels-left",
+      "image": "/Users/javababy/Downloads/AI demo/tankwar/assets/props/stage1/roadside-pack/barrel-cluster/prop.png",
+      "left": 56,
+      "top": 116,
+      "w": 108,
+      "h": 94,
+      "sortY": 210,
+      "layer": "props"
+    },
+    {
+      "id": "opening-concrete-right",
+      "image": "/Users/javababy/Downloads/AI demo/tankwar/assets/props/stage1/roadside-pack/concrete-roadblock/prop.png",
+      "left": 517,
+      "top": 200,
+      "w": 170,
+      "h": 108,
+      "sortY": 308,
+      "layer": "props"
+    },
+    {
+      "id": "opening-sign-left",
+      "image": "/Users/javababy/Downloads/AI demo/tankwar/assets/props/stage1/checkpoint-pack/warning-sign/prop.png",
+      "left": 81,
+      "top": 400,
+      "w": 90,
+      "h": 176,
+      "sortY": 576,
+      "layer": "props"
+    },
+    {
+      "id": "opening-tires-right",
+      "image": "/Users/javababy/Downloads/AI demo/tankwar/assets/props/stage1/roadside-pack/stacked-tires/prop.png",
+      "left": 543,
+      "top": 600,
+      "w": 118,
+      "h": 94,
+      "sortY": 694,
+      "layer": "props"
+    },
+    {
+      "id": "opening-hedgehog-left",
+      "image": "/Users/javababy/Downloads/AI demo/tankwar/assets/props/stage1/roadside-pack/steel-hedgehog/prop.png",
+      "left": 51,
+      "top": 812,
+      "w": 118,
+      "h": 112,
+      "sortY": 924,
+      "layer": "props"
+    },
+    {
+      "id": "opening-sandbag-right",
+      "image": "/Users/javababy/Downloads/AI demo/tankwar/assets/props/stage1/roadside-pack/sandbag-barricade/prop.png",
+      "left": 526,
+      "top": 974,
+      "w": 144,
+      "h": 72,
+      "sortY": 1046,
+      "layer": "props"
+    },
+    {
+      "id": "opening-warning-right",
+      "image": "/Users/javababy/Downloads/AI demo/tankwar/assets/props/stage1/checkpoint-pack/warning-sign/prop.png",
+      "left": 557,
+      "top": 1114,
+      "w": 86,
+      "h": 168,
+      "sortY": 1282,
+      "layer": "props"
+    }
+  ]
+}

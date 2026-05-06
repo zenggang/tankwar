@@ -1,0 +1,8 @@
+Use the dressed wasteland highway image just shown as the visual style reference.
+Create a single right-side cannon sprite for a moving fortress boss in a clean HD 2D arcade wasteland tank shooter.
+Style: clean hand-painted HD 2D game asset style, crisp silhouette, smooth painted surfaces, low texture noise, strong arcade readability, no pixel art.
+View: light 3/4 top-down side weapon module view for a portrait mobile game.
+This asset is the right-side cannon only. It should feel like a dangerous auxiliary boss weapon, smaller than the main cannon but still clearly more threatening than normal turret guns.
+Color language: dark dusty brown-olive armored metal with restrained rust and industrial wasteland wear.
+Background must be 100% solid flat #FF00FF magenta, no gradients, no text, no labels, no watermark.
+Entire side cannon must fit fully inside the image with generous magenta margin on all four sides. No barrel or armor edge may touch or cross the image border.

@@ -1,0 +1,11 @@
+{
+  "target": "asset",
+  "mode": "single",
+  "prompt": "Use the boss body image just shown as the identity and material reference. Create a single moving fortress boss main cannon sprite for a clean HD 2D arcade wasteland tank shooter. Style: clean hand-painted HD 2D game asset style, crisp silhouette, smooth painted surfaces, low texture noise, strong arcade readability, no pixel art. View: light 3/4 top-down oversized weapon module view for a portrait mobile game. This asset is the main cannon only, separated from the boss body. It should feel heavier and more dangerous than any normal tank weapon, with a very readable barrel and armored base, matching the same armor family and rust treatment as the boss body. Background must be 100% solid flat #FF00FF magenta, no gradients, no text, no labels, no watermark. Entire main cannon must fit fully inside the image with generous magenta margin on all four sides. No barrel tip or armor edge may touch or cross the image border.",
+  "role": "",
+  "input": "assets/units/stage1/fortress-boss/main-cannon-raw.png",
+  "threshold": 125,
+  "edge_threshold": 190,
+  "duration": 200,
+  "single_size": 768
+}

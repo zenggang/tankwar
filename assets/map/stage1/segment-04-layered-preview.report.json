@@ -1,0 +1,87 @@
+{
+  "base": "assets/map/stage1/segment-04-base.png",
+  "placements": "data/stage1-segment-04-props.json",
+  "output": "assets/map/stage1/segment-04-layered-preview.png",
+  "pasted": [
+    {
+      "id": "boss-bunker-left-top",
+      "image": "/Users/javababy/Downloads/AI demo/tankwar/assets/props/stage1/bunker-cover/prop.png",
+      "left": 37,
+      "top": 74,
+      "w": 170,
+      "h": 132,
+      "sortY": 206,
+      "layer": "props"
+    },
+    {
+      "id": "boss-bunker-right-top",
+      "image": "/Users/javababy/Downloads/AI demo/tankwar/assets/props/stage1/bunker-cover/prop.png",
+      "left": 513,
+      "top": 74,
+      "w": 170,
+      "h": 132,
+      "sortY": 206,
+      "layer": "props"
+    },
+    {
+      "id": "boss-heavy-truck-left",
+      "image": "/Users/javababy/Downloads/AI demo/tankwar/assets/props/stage1/heavy-truck-wreck/prop.png",
+      "left": 34,
+      "top": 264,
+      "w": 184,
+      "h": 224,
+      "sortY": 488,
+      "layer": "props"
+    },
+    {
+      "id": "boss-heavy-truck-right",
+      "image": "/Users/javababy/Downloads/AI demo/tankwar/assets/props/stage1/heavy-truck-wreck/prop.png",
+      "left": 502,
+      "top": 264,
+      "w": 184,
+      "h": 224,
+      "sortY": 488,
+      "layer": "props"
+    },
+    {
+      "id": "boss-pad-left",
+      "image": "/Users/javababy/Downloads/AI demo/tankwar/assets/props/stage1/checkpoint-pack/turret-foundation-pad/prop.png",
+      "left": 35,
+      "top": 708,
+      "w": 170,
+      "h": 126,
+      "sortY": 834,
+      "layer": "props"
+    },
+    {
+      "id": "boss-pad-right",
+      "image": "/Users/javababy/Downloads/AI demo/tankwar/assets/props/stage1/checkpoint-pack/turret-foundation-pad/prop.png",
+      "left": 515,
+      "top": 708,
+      "w": 170,
+      "h": 126,
+      "sortY": 834,
+      "layer": "props"
+    },
+    {
+      "id": "boss-roadblock-left",
+      "image": "/Users/javababy/Downloads/AI demo/tankwar/assets/props/stage1/roadside-pack/concrete-roadblock/prop.png",
+      "left": 70,
+      "top": 972,
+      "w": 176,
+      "h": 112,
+      "sortY": 1084,
+      "layer": "props"
+    },
+    {
+      "id": "boss-roadblock-right",
+      "image": "/Users/javababy/Downloads/AI demo/tankwar/assets/props/stage1/roadside-pack/concrete-roadblock/prop.png",
+      "left": 474,
+      "top": 972,
+      "w": 176,
+      "h": 112,
+      "sortY": 1084,
+      "layer": "props"
+    }
+  ]
+}

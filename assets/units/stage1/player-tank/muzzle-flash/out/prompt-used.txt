@@ -1,0 +1,6 @@
+Create exactly 4 equal cells in a 2x2 sprite sheet for a clean HD 2D arcade wasteland tank shooter muzzle flash effect.
+Background must be 100% solid flat #FF00FF magenta.
+This is a player tank cannon muzzle flash: compact, punchy, forward-directed, readable on a small mobile screen.
+Read the frames left to right, top to bottom: ignition, burst expansion, peak flash, quick fade.
+Use bright yellow-white core fire with warm orange edges, keep the flash tight and gameplay-friendly.
+No text, no labels, no UI, no watermark. Entire effect must stay well inside each cell with generous magenta margin on all sides.

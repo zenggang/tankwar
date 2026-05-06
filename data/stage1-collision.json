@@ -1,0 +1,34 @@
+{
+  "map": "stage1",
+  "collisionModel": "coarse_shapes",
+  "segments": [
+    {
+      "key": "segment-01",
+      "blockers": [
+        { "id": "opening-left-shoulder", "type": "rect", "x": 0, "y": 0, "w": 88, "h": 1400 },
+        { "id": "opening-right-shoulder", "type": "rect", "x": 632, "y": 0, "w": 88, "h": 1400 }
+      ]
+    },
+    {
+      "key": "segment-02",
+      "blockers": [
+        { "id": "roadblock-left-shoulder", "type": "rect", "x": 0, "y": 0, "w": 92, "h": 1400 },
+        { "id": "roadblock-right-shoulder", "type": "rect", "x": 628, "y": 0, "w": 92, "h": 1400 }
+      ]
+    },
+    {
+      "key": "segment-03",
+      "blockers": [
+        { "id": "checkpoint-left-cover", "type": "rect", "x": 44, "y": 660, "w": 154, "h": 148 },
+        { "id": "checkpoint-right-cover", "type": "rect", "x": 522, "y": 660, "w": 154, "h": 148 }
+      ]
+    },
+    {
+      "key": "segment-04",
+      "blockers": [
+        { "id": "boss-left-bunker", "type": "rect", "x": 34, "y": 112, "w": 184, "h": 142 },
+        { "id": "boss-right-bunker", "type": "rect", "x": 502, "y": 112, "w": 184, "h": 142 }
+      ]
+    }
+  ]
+}

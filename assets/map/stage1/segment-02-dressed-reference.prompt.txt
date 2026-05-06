@@ -1,0 +1,8 @@
+Use the image just shown as the exact base map reference.
+Create a dressed-reference version of the same map by adding props only.
+Preserve exactly: camera, framing, image size, terrain, road shape, cracked asphalt, dusty shoulders, lane boundaries, reserved anchor pads, and all walkable routes.
+Do not crop, zoom, rotate, repaint, or redesign the terrain.
+Add these props naturally on top of the existing map: rusted oil barrels, sandbag clusters, broken concrete barriers, low steel roadblocks, wrecked roadside utility truck, stacked tires, bent warning signs, small scrap piles, and turret base pads.
+Keep the center driving lane readable and largely open for tank movement.
+Place props mainly along shoulders, at road edges, and in side pressure pockets that feel deliberately staged for arcade combat.
+No tanks, no helicopters, no characters, no UI, no text, no watermark.

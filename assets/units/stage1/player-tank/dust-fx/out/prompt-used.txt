@@ -1,0 +1,6 @@
+Create exactly 4 equal cells in a 2x2 sprite sheet for a clean HD 2D arcade wasteland tank shooter dust movement effect.
+Background must be 100% solid flat #FF00FF magenta.
+This is a compact dusty tread-kick effect for a moving medium tank on a dry wasteland road.
+Read the frames left to right, top to bottom: initial dust kick, wider dusty burst, peak dusty trail, short fade.
+Use sandy beige-brown dust with soft readable motion and avoid making it too smoky or too explosive.
+No text, no labels, no UI, no watermark. Entire effect must stay well inside each cell with generous magenta margin on all sides.

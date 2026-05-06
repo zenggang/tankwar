@@ -1,0 +1,6 @@
+Create a single repair kit pickup sprite for a clean HD 2D arcade wasteland tank shooter.
+Style: clean hand-painted HD 2D game asset style, crisp silhouette, smooth painted surfaces, low texture noise, strong arcade readability, no pixel art.
+This is a battlefield repair pickup: compact armored field repair crate with a bold white cross or medical repair marking, readable on a small mobile screen.
+Use a slightly brighter, more helpful color language than enemy units so the pickup reads as beneficial.
+Background must be 100% solid flat #FF00FF magenta, no gradients, no text labels, no watermark.
+Entire pickup must fit fully inside the image with generous magenta margin on all four sides.

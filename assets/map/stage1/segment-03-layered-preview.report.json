@@ -1,0 +1,97 @@
+{
+  "base": "assets/map/stage1/segment-03-base.png",
+  "placements": "data/stage1-segment-03-props.json",
+  "output": "assets/map/stage1/segment-03-layered-preview.png",
+  "pasted": [
+    {
+      "id": "checkpoint-gantry",
+      "image": "/Users/javababy/Downloads/AI demo/tankwar/assets/props/stage1/checkpoint-gantry/prop.png",
+      "left": 80,
+      "top": -198,
+      "w": 560,
+      "h": 484,
+      "sortY": 286,
+      "layer": "props"
+    },
+    {
+      "id": "checkpoint-fence-left",
+      "image": "/Users/javababy/Downloads/AI demo/tankwar/assets/props/stage1/checkpoint-pack/wire-fence-segment/prop.png",
+      "left": 69,
+      "top": 406,
+      "w": 170,
+      "h": 114,
+      "sortY": 520,
+      "layer": "props"
+    },
+    {
+      "id": "checkpoint-fence-right",
+      "image": "/Users/javababy/Downloads/AI demo/tankwar/assets/props/stage1/checkpoint-pack/wire-fence-segment/prop.png",
+      "left": 481,
+      "top": 406,
+      "w": 170,
+      "h": 114,
+      "sortY": 520,
+      "layer": "props"
+    },
+    {
+      "id": "checkpoint-bunker-left",
+      "image": "/Users/javababy/Downloads/AI demo/tankwar/assets/props/stage1/bunker-cover/prop.png",
+      "left": 39,
+      "top": 636,
+      "w": 166,
+      "h": 130,
+      "sortY": 766,
+      "layer": "props"
+    },
+    {
+      "id": "checkpoint-bunker-right",
+      "image": "/Users/javababy/Downloads/AI demo/tankwar/assets/props/stage1/bunker-cover/prop.png",
+      "left": 515,
+      "top": 636,
+      "w": 166,
+      "h": 130,
+      "sortY": 766,
+      "layer": "props"
+    },
+    {
+      "id": "checkpoint-pad-left",
+      "image": "/Users/javababy/Downloads/AI demo/tankwar/assets/props/stage1/checkpoint-pack/turret-foundation-pad/prop.png",
+      "left": 44,
+      "top": 996,
+      "w": 164,
+      "h": 122,
+      "sortY": 1118,
+      "layer": "props"
+    },
+    {
+      "id": "checkpoint-pad-right",
+      "image": "/Users/javababy/Downloads/AI demo/tankwar/assets/props/stage1/checkpoint-pack/turret-foundation-pad/prop.png",
+      "left": 512,
+      "top": 996,
+      "w": 164,
+      "h": 122,
+      "sortY": 1118,
+      "layer": "props"
+    },
+    {
+      "id": "checkpoint-scrap-left",
+      "image": "/Users/javababy/Downloads/AI demo/tankwar/assets/props/stage1/checkpoint-pack/scrap-pile/prop.png",
+      "left": 44,
+      "top": 1180,
+      "w": 156,
+      "h": 120,
+      "sortY": 1300,
+      "layer": "props"
+    },
+    {
+      "id": "checkpoint-sign-right",
+      "image": "/Users/javababy/Downloads/AI demo/tankwar/assets/props/stage1/checkpoint-pack/warning-sign/prop.png",
+      "left": 548,
+      "top": 1134,
+      "w": 92,
+      "h": 180,
+      "sortY": 1314,
+      "layer": "props"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+Create a single semi-transparent fire button icon for a clean arcade military HUD in a portrait mobile tank shooter.
+This is a UI control asset, not an in-world prop.
+Style: clean HD game UI asset, readable, restrained, military-arcade, circular or rounded-hex button with strong center cue for firing, subtle amber or warm combat accent, translucent material.
+It should feel more aggressive and action-oriented than the joystick controls, suitable for the lower-right corner.
+Background must be 100% solid flat #FF00FF magenta, no gradients in the background, no text, no labels, no watermark.
+Keep the icon centered with generous magenta margin.

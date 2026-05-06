@@ -1,0 +1,11 @@
+{
+  "target": "asset",
+  "mode": "single",
+  "prompt": "",
+  "role": "",
+  "input": "assets/units/stage1/player-tank/shadow/raw.png",
+  "threshold": 180,
+  "edge_threshold": 230,
+  "duration": 200,
+  "single_size": 768
+}

@@ -1,0 +1,60 @@
+{
+  "props": [
+    {
+      "id": "opening-barrels-left",
+      "image": "assets/props/stage1/roadside-pack/barrel-cluster/prop.png",
+      "x": 110,
+      "y": 210,
+      "w": 108,
+      "h": 94
+    },
+    {
+      "id": "opening-concrete-right",
+      "image": "assets/props/stage1/roadside-pack/concrete-roadblock/prop.png",
+      "x": 602,
+      "y": 308,
+      "w": 170,
+      "h": 108
+    },
+    {
+      "id": "opening-sign-left",
+      "image": "assets/props/stage1/checkpoint-pack/warning-sign/prop.png",
+      "x": 126,
+      "y": 576,
+      "w": 90,
+      "h": 176
+    },
+    {
+      "id": "opening-tires-right",
+      "image": "assets/props/stage1/roadside-pack/stacked-tires/prop.png",
+      "x": 602,
+      "y": 694,
+      "w": 118,
+      "h": 94
+    },
+    {
+      "id": "opening-hedgehog-left",
+      "image": "assets/props/stage1/roadside-pack/steel-hedgehog/prop.png",
+      "x": 110,
+      "y": 924,
+      "w": 118,
+      "h": 112
+    },
+    {
+      "id": "opening-sandbag-right",
+      "image": "assets/props/stage1/roadside-pack/sandbag-barricade/prop.png",
+      "x": 598,
+      "y": 1046,
+      "w": 144,
+      "h": 72
+    },
+    {
+      "id": "opening-warning-right",
+      "image": "assets/props/stage1/checkpoint-pack/warning-sign/prop.png",
+      "x": 600,
+      "y": 1282,
+      "w": 86,
+      "h": 168
+    }
+  ]
+}

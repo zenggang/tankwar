@@ -1,0 +1,7 @@
+Use the player medium tank hull image just shown as the visual reference.
+Create a destroyed wreck version of the same player medium tank for a clean HD 2D arcade wasteland tank shooter.
+Preserve the same hero tank identity and scale, but show it as a knocked-out burned wreck: bent armor, jammed turret ring, torn track guards, soot, exposed internals, and dead battlefield mass.
+Style: clean hand-painted HD 2D game asset style, crisp silhouette, smooth painted surfaces, low texture noise, strong arcade readability, no pixel art.
+View: light 3/4 top-down vehicle wreck view for a portrait mobile game.
+Background must be 100% solid flat #FF00FF magenta, no gradients, no text, no labels, no watermark.
+Entire wreck must fit fully inside the image with generous magenta margin on all four sides. No broken part may touch or cross the image edge.

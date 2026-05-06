@@ -1,0 +1,8 @@
+Use the dressed wasteland highway image just shown as the visual style reference.
+Create a single enemy fixed turret gun head sprite for a clean HD 2D arcade wasteland tank shooter.
+Style: clean hand-painted HD 2D game asset style, crisp silhouette, smooth painted surfaces, low texture noise, strong arcade readability, no pixel art.
+View: light 3/4 top-down turret weapon part view for a portrait mobile game.
+This asset is the rotating gun head only, separated from the base. It should feel compact, hostile, and clearly directional, with a readable barrel.
+Color language: dusty brown-gray military metal with restrained rust and heat wear.
+Background must be 100% solid flat #FF00FF magenta, no gradients, no text, no labels, no watermark.
+Entire turret head must fit fully inside the image with generous magenta margin on all four sides. No gun tip or rear edge may touch or cross the image border.

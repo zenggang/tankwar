@@ -1,0 +1,8 @@
+Use the dressed wasteland highway image just shown as the visual style reference.
+Create a single moving fortress boss body sprite for a clean HD 2D arcade wasteland tank shooter.
+Style: clean hand-painted HD 2D game asset style, crisp silhouette, smooth painted surfaces, low texture noise, strong arcade readability, no pixel art.
+View: light 3/4 top-down massive armored vehicle body view for a portrait mobile game.
+This asset is the boss body only, without detachable cannons. It should feel like a mobile fortress: huge, broad, layered armor, intimidating mass, and clearly larger than all normal tanks.
+Color language: dark dusty brown-olive armor with warm rust accents, reinforced plates, industrial wasteland engineering, dramatic but still readable on a phone screen.
+Background must be 100% solid flat #FF00FF magenta, no gradients, no text, no labels, no watermark.
+Entire boss body must fit fully inside the image with generous magenta margin on all four sides. No armor edge, tread edge, or exhaust detail may touch or cross the image border.

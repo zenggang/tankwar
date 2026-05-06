@@ -1,0 +1,276 @@
+{
+  "segments": {
+    "segment-segment-01": [
+      {
+        "id": "opening-barrels-left",
+        "image": "assets/props/stage1/roadside-pack/barrel-cluster/prop.png",
+        "x": 110,
+        "y": 210,
+        "w": 108,
+        "h": 94
+      },
+      {
+        "id": "opening-concrete-right",
+        "image": "assets/props/stage1/roadside-pack/concrete-roadblock/prop.png",
+        "x": 602,
+        "y": 308,
+        "w": 170,
+        "h": 108
+      },
+      {
+        "id": "opening-sign-left",
+        "image": "assets/props/stage1/checkpoint-pack/warning-sign/prop.png",
+        "x": 126,
+        "y": 576,
+        "w": 90,
+        "h": 176
+      },
+      {
+        "id": "opening-tires-right",
+        "image": "assets/props/stage1/roadside-pack/stacked-tires/prop.png",
+        "x": 602,
+        "y": 694,
+        "w": 118,
+        "h": 94
+      },
+      {
+        "id": "opening-hedgehog-left",
+        "image": "assets/props/stage1/roadside-pack/steel-hedgehog/prop.png",
+        "x": 110,
+        "y": 924,
+        "w": 118,
+        "h": 112
+      },
+      {
+        "id": "opening-sandbag-right",
+        "image": "assets/props/stage1/roadside-pack/sandbag-barricade/prop.png",
+        "x": 598,
+        "y": 1046,
+        "w": 144,
+        "h": 72
+      },
+      {
+        "id": "opening-warning-right",
+        "image": "assets/props/stage1/checkpoint-pack/warning-sign/prop.png",
+        "x": 600,
+        "y": 1282,
+        "w": 86,
+        "h": 168
+      }
+    ],
+    "segment-segment-02": [
+      {
+        "id": "barrel-cluster-top-left",
+        "image": "assets/props/stage1/roadside-pack/barrel-cluster/prop.png",
+        "x": 108,
+        "y": 206,
+        "w": 112,
+        "h": 98
+      },
+      {
+        "id": "concrete-left-mid",
+        "image": "assets/props/stage1/roadside-pack/concrete-roadblock/prop.png",
+        "x": 124,
+        "y": 308,
+        "w": 176,
+        "h": 112
+      },
+      {
+        "id": "truck-top-right",
+        "image": "assets/props/stage1/utility-truck/prop.png",
+        "x": 590,
+        "y": 260,
+        "w": 204,
+        "h": 148
+      },
+      {
+        "id": "barrel-cluster-right-mid",
+        "image": "assets/props/stage1/roadside-pack/barrel-cluster/prop.png",
+        "x": 596,
+        "y": 406,
+        "w": 104,
+        "h": 91
+      },
+      {
+        "id": "sandbag-right-mid",
+        "image": "assets/props/stage1/roadside-pack/sandbag-barricade/prop.png",
+        "x": 596,
+        "y": 440,
+        "w": 148,
+        "h": 73
+      },
+      {
+        "id": "steel-bottom-left",
+        "image": "assets/props/stage1/roadside-pack/steel-hedgehog/prop.png",
+        "x": 108,
+        "y": 736,
+        "w": 118,
+        "h": 112
+      },
+      {
+        "id": "stacked-tires-bottom-right",
+        "image": "assets/props/stage1/roadside-pack/stacked-tires/prop.png",
+        "x": 606,
+        "y": 850,
+        "w": 126,
+        "h": 100
+      },
+      {
+        "id": "barrel-cluster-bottom-left",
+        "image": "assets/props/stage1/roadside-pack/barrel-cluster/prop.png",
+        "x": 96,
+        "y": 1044,
+        "w": 116,
+        "h": 101
+      },
+      {
+        "id": "concrete-bottom-right",
+        "image": "assets/props/stage1/roadside-pack/concrete-roadblock/prop.png",
+        "x": 594,
+        "y": 1212,
+        "w": 176,
+        "h": 112
+      }
+    ],
+    "segment-segment-03": [
+      {
+        "id": "checkpoint-gantry",
+        "image": "assets/props/stage1/checkpoint-gantry/prop.png",
+        "x": 360,
+        "y": 286,
+        "w": 560,
+        "h": 484
+      },
+      {
+        "id": "checkpoint-fence-left",
+        "image": "assets/props/stage1/checkpoint-pack/wire-fence-segment/prop.png",
+        "x": 154,
+        "y": 520,
+        "w": 170,
+        "h": 114
+      },
+      {
+        "id": "checkpoint-fence-right",
+        "image": "assets/props/stage1/checkpoint-pack/wire-fence-segment/prop.png",
+        "x": 566,
+        "y": 520,
+        "w": 170,
+        "h": 114
+      },
+      {
+        "id": "checkpoint-bunker-left",
+        "image": "assets/props/stage1/bunker-cover/prop.png",
+        "x": 122,
+        "y": 766,
+        "w": 166,
+        "h": 130
+      },
+      {
+        "id": "checkpoint-bunker-right",
+        "image": "assets/props/stage1/bunker-cover/prop.png",
+        "x": 598,
+        "y": 766,
+        "w": 166,
+        "h": 130
+      },
+      {
+        "id": "checkpoint-pad-left",
+        "image": "assets/props/stage1/checkpoint-pack/turret-foundation-pad/prop.png",
+        "x": 126,
+        "y": 1118,
+        "w": 164,
+        "h": 122
+      },
+      {
+        "id": "checkpoint-pad-right",
+        "image": "assets/props/stage1/checkpoint-pack/turret-foundation-pad/prop.png",
+        "x": 594,
+        "y": 1118,
+        "w": 164,
+        "h": 122
+      },
+      {
+        "id": "checkpoint-scrap-left",
+        "image": "assets/props/stage1/checkpoint-pack/scrap-pile/prop.png",
+        "x": 122,
+        "y": 1300,
+        "w": 156,
+        "h": 120
+      },
+      {
+        "id": "checkpoint-sign-right",
+        "image": "assets/props/stage1/checkpoint-pack/warning-sign/prop.png",
+        "x": 594,
+        "y": 1314,
+        "w": 92,
+        "h": 180
+      }
+    ],
+    "segment-segment-04": [
+      {
+        "id": "boss-bunker-left-top",
+        "image": "assets/props/stage1/bunker-cover/prop.png",
+        "x": 122,
+        "y": 206,
+        "w": 170,
+        "h": 132
+      },
+      {
+        "id": "boss-bunker-right-top",
+        "image": "assets/props/stage1/bunker-cover/prop.png",
+        "x": 598,
+        "y": 206,
+        "w": 170,
+        "h": 132
+      },
+      {
+        "id": "boss-heavy-truck-left",
+        "image": "assets/props/stage1/heavy-truck-wreck/prop.png",
+        "x": 126,
+        "y": 488,
+        "w": 184,
+        "h": 224
+      },
+      {
+        "id": "boss-heavy-truck-right",
+        "image": "assets/props/stage1/heavy-truck-wreck/prop.png",
+        "x": 594,
+        "y": 488,
+        "w": 184,
+        "h": 224
+      },
+      {
+        "id": "boss-pad-left",
+        "image": "assets/props/stage1/checkpoint-pack/turret-foundation-pad/prop.png",
+        "x": 120,
+        "y": 834,
+        "w": 170,
+        "h": 126
+      },
+      {
+        "id": "boss-pad-right",
+        "image": "assets/props/stage1/checkpoint-pack/turret-foundation-pad/prop.png",
+        "x": 600,
+        "y": 834,
+        "w": 170,
+        "h": 126
+      },
+      {
+        "id": "boss-roadblock-left",
+        "image": "assets/props/stage1/roadside-pack/concrete-roadblock/prop.png",
+        "x": 158,
+        "y": 1084,
+        "w": 176,
+        "h": 112
+      },
+      {
+        "id": "boss-roadblock-right",
+        "image": "assets/props/stage1/roadside-pack/concrete-roadblock/prop.png",
+        "x": 562,
+        "y": 1084,
+        "w": 176,
+        "h": 112
+      }
+    ]
+  }
+}

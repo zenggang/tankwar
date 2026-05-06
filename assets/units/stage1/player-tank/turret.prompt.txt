@@ -1,0 +1,7 @@
+Create a single player medium tank turret sprite for a clean HD 2D arcade wasteland tank shooter.
+Style: clean hand-painted HD 2D game asset style, crisp silhouette, smooth painted surfaces, low texture noise, strong arcade readability, no pixel art.
+View: light 3/4 top-down vehicle part view for a portrait mobile game.
+This asset is the turret only, separated from the hull. It should include the gun barrel and turret body, be clearly readable, and feel like the hero tank's main weapon system.
+Color language: muted military green armor matching a hero tank, with restrained dusty wear and small warm rust accents.
+Background must be 100% solid flat #FF00FF magenta, no gradients, no text, no labels, no watermark.
+Entire turret must fit fully inside the image with generous magenta margin on all four sides. No barrel tip or rear turret edge may touch or cross the image edge.

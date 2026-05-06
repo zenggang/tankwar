@@ -1,0 +1,7 @@
+Use the scout helicopter image just shown as the visual reference.
+Create a crashed wreck version of the same enemy scout helicopter for a clean HD 2D arcade wasteland tank shooter.
+Preserve the same aircraft identity, silhouette family, and material language, but show it as a fresh combat crash: broken rotor, bent tail, damaged skids, torn body panels, soot, and emergency debris, while still remaining readable from the same overhead angle.
+Style: clean hand-painted HD 2D game asset style, crisp silhouette, smooth painted surfaces, low texture noise, strong arcade readability, no pixel art.
+View: top-down to light 3/4 crashed aircraft view for a portrait mobile game.
+Background must be 100% solid flat #FF00FF magenta, no gradients, no text, no labels, no watermark.
+Entire crash wreck must fit fully inside the image with generous magenta margin on all four sides. No rotor shard, tail piece, or skid may touch or cross the image edge.

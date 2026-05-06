@@ -1,0 +1,6 @@
+Create a single shield battery pickup sprite for a clean HD 2D arcade wasteland tank shooter.
+Style: clean hand-painted HD 2D game asset style, crisp silhouette, smooth painted surfaces, low texture noise, strong arcade readability, no pixel art.
+This is a defensive shield battery pickup: compact armored energy cell with cool blue-cyan shield accents and a resilient protective feel.
+Use cooler electric tones than the weapon boost, but keep the object itself solid and readable on a small mobile screen.
+Background must be 100% solid flat #FF00FF magenta, no gradients, no text labels, no watermark.
+Entire pickup must fit fully inside the image with generous magenta margin on all four sides.

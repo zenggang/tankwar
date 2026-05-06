@@ -1,0 +1,6 @@
+Create a single semi-transparent virtual joystick base icon for a clean arcade military HUD in a portrait mobile tank shooter.
+This is a UI control asset, not an in-world prop.
+Style: clean HD game UI asset, readable, restrained, military-arcade, soft translucent smoky glass or tinted alloy ring.
+It should feel functional and minimal, with circular structure and subtle radial markings, suitable for the lower-left corner.
+Background must be 100% solid flat #FF00FF magenta, no gradients in the background, no text, no labels, no watermark.
+Keep the icon centered with generous magenta margin.

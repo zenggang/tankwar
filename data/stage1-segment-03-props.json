@@ -1,0 +1,76 @@
+{
+  "props": [
+    {
+      "id": "checkpoint-gantry",
+      "image": "assets/props/stage1/checkpoint-gantry/prop.png",
+      "x": 360,
+      "y": 286,
+      "w": 560,
+      "h": 484
+    },
+    {
+      "id": "checkpoint-fence-left",
+      "image": "assets/props/stage1/checkpoint-pack/wire-fence-segment/prop.png",
+      "x": 154,
+      "y": 520,
+      "w": 170,
+      "h": 114
+    },
+    {
+      "id": "checkpoint-fence-right",
+      "image": "assets/props/stage1/checkpoint-pack/wire-fence-segment/prop.png",
+      "x": 566,
+      "y": 520,
+      "w": 170,
+      "h": 114
+    },
+    {
+      "id": "checkpoint-bunker-left",
+      "image": "assets/props/stage1/bunker-cover/prop.png",
+      "x": 122,
+      "y": 766,
+      "w": 166,
+      "h": 130
+    },
+    {
+      "id": "checkpoint-bunker-right",
+      "image": "assets/props/stage1/bunker-cover/prop.png",
+      "x": 598,
+      "y": 766,
+      "w": 166,
+      "h": 130
+    },
+    {
+      "id": "checkpoint-pad-left",
+      "image": "assets/props/stage1/checkpoint-pack/turret-foundation-pad/prop.png",
+      "x": 126,
+      "y": 1118,
+      "w": 164,
+      "h": 122
+    },
+    {
+      "id": "checkpoint-pad-right",
+      "image": "assets/props/stage1/checkpoint-pack/turret-foundation-pad/prop.png",
+      "x": 594,
+      "y": 1118,
+      "w": 164,
+      "h": 122
+    },
+    {
+      "id": "checkpoint-scrap-left",
+      "image": "assets/props/stage1/checkpoint-pack/scrap-pile/prop.png",
+      "x": 122,
+      "y": 1300,
+      "w": 156,
+      "h": 120
+    },
+    {
+      "id": "checkpoint-sign-right",
+      "image": "assets/props/stage1/checkpoint-pack/warning-sign/prop.png",
+      "x": 594,
+      "y": 1314,
+      "w": 92,
+      "h": 180
+    }
+  ]
+}

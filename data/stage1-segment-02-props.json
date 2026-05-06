@@ -1,0 +1,76 @@
+{
+  "props": [
+    {
+      "id": "barrel-cluster-top-left",
+      "image": "assets/props/stage1/roadside-pack/barrel-cluster/prop.png",
+      "x": 108,
+      "y": 206,
+      "w": 112,
+      "h": 98
+    },
+    {
+      "id": "concrete-left-mid",
+      "image": "assets/props/stage1/roadside-pack/concrete-roadblock/prop.png",
+      "x": 124,
+      "y": 308,
+      "w": 176,
+      "h": 112
+    },
+    {
+      "id": "truck-top-right",
+      "image": "assets/props/stage1/utility-truck/prop.png",
+      "x": 590,
+      "y": 260,
+      "w": 204,
+      "h": 148
+    },
+    {
+      "id": "barrel-cluster-right-mid",
+      "image": "assets/props/stage1/roadside-pack/barrel-cluster/prop.png",
+      "x": 596,
+      "y": 406,
+      "w": 104,
+      "h": 91
+    },
+    {
+      "id": "sandbag-right-mid",
+      "image": "assets/props/stage1/roadside-pack/sandbag-barricade/prop.png",
+      "x": 596,
+      "y": 440,
+      "w": 148,
+      "h": 73
+    },
+    {
+      "id": "steel-bottom-left",
+      "image": "assets/props/stage1/roadside-pack/steel-hedgehog/prop.png",
+      "x": 108,
+      "y": 736,
+      "w": 118,
+      "h": 112
+    },
+    {
+      "id": "stacked-tires-bottom-right",
+      "image": "assets/props/stage1/roadside-pack/stacked-tires/prop.png",
+      "x": 606,
+      "y": 850,
+      "w": 126,
+      "h": 100
+    },
+    {
+      "id": "barrel-cluster-bottom-left",
+      "image": "assets/props/stage1/roadside-pack/barrel-cluster/prop.png",
+      "x": 96,
+      "y": 1044,
+      "w": 116,
+      "h": 101
+    },
+    {
+      "id": "concrete-bottom-right",
+      "image": "assets/props/stage1/roadside-pack/concrete-roadblock/prop.png",
+      "x": 594,
+      "y": 1212,
+      "w": 176,
+      "h": 112
+    }
+  ]
+}

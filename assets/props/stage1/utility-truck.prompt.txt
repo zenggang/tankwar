@@ -1,0 +1,7 @@
+Use the dressed wasteland highway image just shown as the visual style reference.
+Create a single wrecked roadside utility pickup truck prop for a clean HD 2D arcade wasteland tank shooter.
+Style: clean hand-painted HD 2D game asset style, crisp silhouette, smooth painted surfaces, low texture noise, strong arcade readability, no pixel art.
+View: mostly front-facing top-down 3/4 roadside object view, upright and centered, with only a small visible top face.
+The truck should feel derelict and combat-abandoned: bent frame, missing panels, dusty rust, but still clearly readable on a phone screen.
+Background must be 100% solid flat #FF00FF magenta, no gradients, no shadow plane, no text, no labels, no watermark.
+Entire prop must fit fully inside the image with generous magenta margin on all four sides. No bumper, wheel, mirror, or scrap piece may touch or cross the image edge.

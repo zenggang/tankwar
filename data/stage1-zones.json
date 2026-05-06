@@ -1,0 +1,9 @@
+{
+  "map": "stage1",
+  "zones": [
+    { "id": "opening-lane", "segment": "segment-01", "type": "spawn", "x": 120, "y": 100, "w": 480, "h": 860 },
+    { "id": "roadblock-lane", "segment": "segment-02", "type": "spawn", "x": 108, "y": 160, "w": 504, "h": 980 },
+    { "id": "checkpoint-lock", "segment": "segment-03", "type": "lock", "x": 84, "y": 220, "w": 552, "h": 980 },
+    { "id": "boss-arena", "segment": "segment-04", "type": "boss", "x": 68, "y": 80, "w": 584, "h": 1040 }
+  ]
+}

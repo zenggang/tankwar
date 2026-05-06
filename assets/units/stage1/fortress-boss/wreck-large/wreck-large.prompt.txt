@@ -1,0 +1,7 @@
+Use the fortress boss body image just shown as the visual reference.
+Create a giant destroyed wreck version of the same moving fortress boss for a clean HD 2D arcade wasteland tank shooter.
+Preserve the same boss identity, silhouette family, armor language, and huge scale, but show it as a collapsed final battlefield wreck: torn armor, broken treads, ruptured housings, scorched plates, exposed machinery, and dead fortress mass.
+Style: clean hand-painted HD 2D game asset style, crisp silhouette, smooth painted surfaces, low texture noise, strong arcade readability, no pixel art.
+View: light 3/4 top-down giant vehicle wreck view for a portrait mobile game.
+Background must be 100% solid flat #FF00FF magenta, no gradients, no text, no labels, no watermark.
+Entire wreck must fit fully inside the image with generous magenta margin on all four sides. No broken part may touch or cross the image edge.
